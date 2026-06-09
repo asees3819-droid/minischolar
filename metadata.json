@@ -1,0 +1,6 @@
+{
+  "name": "Research AI",
+  "description": "Futuristic AI-powered Personal Research Assistant, study companion, and data fact-checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
